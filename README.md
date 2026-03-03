@@ -1,6 +1,6 @@
 #  AI Agents – TP
 
-#  AIDATA G2 – BAKKAR Alaaeddine
+##  AIDATA G2 – BAKKAR Alaaeddine
 ##  Project Overview
 
 This project is part of the **AI Agents (TP)** practical work.
